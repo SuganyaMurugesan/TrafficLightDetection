@@ -1,0 +1,86 @@
+[
+{
+    "path": "./rgb/additional/2015-10-05-10-55-33_bag/56988.png", 
+    "boxes": [
+      {
+        "y_min": 278.7432988131, 
+        "x_max": 527.1012443072, 
+        "occluded": false, 
+        "x_min": 518.7379907959, 
+        "y_max": 296.3838188664, 
+        "label": "Yellow"
+      }
+    ]
+  }, 
+  {
+    "path": "./rgb/additional/2015-10-05-10-55-33_bag/57058.png", 
+    "boxes": [
+      {
+        "y_min": 287.1471490007, 
+        "x_max": 140.2452731942, 
+        "occluded": false, 
+        "x_min": 125.7231604824, 
+        "y_max": 312.4555852231, 
+        "label": "Red"
+      }, 
+      {
+        "y_min": 257.8928460996, 
+        "x_max": 399.345953546, 
+        "occluded": false, 
+        "x_min": 383.7076212983, 
+        "y_max": 294.4194307293, 
+        "label": "RedLeft"
+      }
+    ]
+  }, 
+  {
+    "path": "./rgb/additional/2015-10-05-10-55-33_bag/57128.png", 
+    "boxes": [
+      {
+        "y_min": 262.3909109419, 
+        "x_max": 815.5665720428, 
+        "occluded": false, 
+        "x_min": 808.9702783529, 
+        "y_max": 276.8314457765, 
+        "label": "off"
+      }, 
+      {
+        "y_min": 196.7112877749, 
+        "x_max": 198.0566497789, 
+        "occluded": false, 
+        "x_min": 171.5274401568, 
+        "y_max": 257.8246898367, 
+        "label": "RedLeft"
+      }, 
+      {
+        "y_min": 300.2800753152, 
+        "x_max": 903.9784382504, 
+        "occluded": false, 
+        "x_min": 896.2388614767, 
+        "y_max": 318.7570415356, 
+        "label": "Yellow"
+      }
+    ]
+  }, 
+  {
+    "path": "./rgb/additional/2015-10-05-10-55-33_bag/57196.png", 
+    "boxes": [
+      {
+        "y_min": 259.3689794926, 
+        "x_max": 789.5532240143, 
+        "occluded": false, 
+        "x_min": 784.2109844425, 
+        "y_max": 272.9118037884, 
+        "label": "off"
+      }, 
+      {
+        "y_min": 304.6370751733, 
+        "x_max": 888.8925908244, 
+        "occluded": false, 
+        "x_min": 880.261596538, 
+        "y_max": 315.7486025268, 
+        "label": "Yellow"
+      }
+    ]
+  }
+  ]
